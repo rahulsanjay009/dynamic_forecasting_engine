@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rahulsanjay009/dynamic_forecasting_engine/static/css/main.47a839bb.css",
+    "main.js": "/rahulsanjay009/dynamic_forecasting_engine/static/js/main.08a6a2b0.js",
+    "static/js/453.8a324e03.chunk.js": "/rahulsanjay009/dynamic_forecasting_engine/static/js/453.8a324e03.chunk.js",
+    "static/media/side_image.png": "/rahulsanjay009/dynamic_forecasting_engine/static/media/side_image.efec3760b8b43d918106.png",
+    "index.html": "/rahulsanjay009/dynamic_forecasting_engine/index.html",
+    "main.47a839bb.css.map": "/rahulsanjay009/dynamic_forecasting_engine/static/css/main.47a839bb.css.map",
+    "main.08a6a2b0.js.map": "/rahulsanjay009/dynamic_forecasting_engine/static/js/main.08a6a2b0.js.map",
+    "453.8a324e03.chunk.js.map": "/rahulsanjay009/dynamic_forecasting_engine/static/js/453.8a324e03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47a839bb.css",
+    "static/js/main.08a6a2b0.js"
+  ]
+}
